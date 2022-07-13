@@ -1,0 +1,8 @@
+git clone --single-branch: Clone only a single branch
+git clone [url]
+The most common usage of cloning is to simply clone a repository. This is only done once, when you begin working on a project, and would follow the syntax of git clone [url].
+git clone url(https://github.com/github/training-kit.git) 
+
+make new folder in any directory : any make a folder and right click and git base here then git clone url (url= shift + insert) press and enter
+
+repo: A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
